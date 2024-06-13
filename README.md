@@ -11,16 +11,13 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 | **Goal**              | Description                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | How to find information about, clean, and prepare data that's stored in a pandas DataFrame.                                       |
-| **What you'll need**          | [Visual Studio Code environment set up to run Python and Jupyter notebooks](https://docs.microsoft.com/learn/modules/python-data-science/1-introduction?WT.mc_id=academic-55190-ornella) |
-| **Duration**                  | 1 hr 20 min                   |                     
-| **Just want to try the app or see the solution?** | [Solution](solution/)                          |
-| **Slides** | [Powerpoint](slides.pptx) 
+| **What you'll need**          | Google Colab |
+| **Duration**                  | 1 hr                   |                     
              
             
 ## Video
 
 [![workshop walk-through](./images/promo.png)](https://youtu.be/DVlE8kS5lcU "workshop walk-through")
-> 🎥 Click this image to watch Ornella walk you through the workshop
 
 ## Pre-Learning
 
@@ -29,16 +26,12 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 
 ## Prerequisites
 
-- [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella)
 - [Python](https://www.python.org/downloads/)
-- [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-- [Activated Anaconda environment](https://code.visualstudio.com/docs/datascience/jupyter-notebooks?WT.mc_id=academic-55190-ornella)
-- [A data science environment in VS Code](https://code.visualstudio.com/docs/datascience/data-science-tutorial?WT.mc_id=academic-55190-ornella)
+- Google Colab
 
 ## What students will learn
 
-Say you want to perform some analysis on a dataset that you find interesting -- like the [squirrel population of Central Park](https://www.thesquirrelcensus.com/), or [various types of French cheese](https://www.kaggle.com/mathurinache/french-cheese-detection). The first thing you'll need to do with any dataset is to clean it up. Many datasets have missing information, or won't be formatted in the exact way you'd like. In this workshop, you will learn how to use data science libraries to prepare your data for analysis and visualization.
+The first thing you'll need to do with any dataset is to clean it up. Many datasets have missing information, or won't be formatted in the exact way you'd like. In this workshop, you will learn how to use data science libraries to prepare your data for analysis and visualization.
 
 ![image of completed project](images/visualizations.png)
 
@@ -58,9 +51,6 @@ Now that you know how to get an overall sense of the dataset you are working wit
 
 Another common thing you'll have to do with most datasets you encounter is [remove duplicate data](https://docs.microsoft.com/learn/modules/data-manipulate-clean/4-duplicate-data?WT.mc_id=academic-55190-ornella). In this section of the workshop, you will learn how to use pandas to detect and remove duplicate entries.
 
-## Combine datasets
-
-Sometimes, you will need to combine datasets together. Luckily, there are several methods available in pandas to [merge and join datasets](https://docs.microsoft.com/learn/modules/data-manipulate-clean/5-combine-datasets?WT.mc_id=academic-55190-ornella).
 
 ## Exploratory statistics and visualization
 
@@ -77,9 +67,4 @@ So far, you've learned how to use pandas methods to examine some aspects of a Da
 
 To test your knowledge, try downloading a free dataset from [Kaggle](https://www.kaggle.com/datasets) that you find interesting. Use the techniques that you learned in this workshop to manipulate and clean your data!
 
-## Feedback
-
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
-
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
 
