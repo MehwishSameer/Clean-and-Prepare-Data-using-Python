@@ -12,8 +12,7 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | How to find information about, clean, and prepare data that's stored in a pandas DataFrame.                                       |
 | **What you'll need**          | Google Colab |
-| **Duration**                  | 1 hr                   |                     
-             
+| **Duration**                  | 1 hr       |          
 
 ## Pre-Learning
 
