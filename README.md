@@ -28,7 +28,6 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 
 The first thing you'll need to do with any dataset is to clean it up. Many datasets have missing information, or won't be formatted in the exact way you'd like. In this workshop, you will learn how to use data science libraries to prepare your data for analysis and visualization.
 
-![image of completed project](images/visualizations.png)
 
 ## Introduction
 
