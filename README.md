@@ -14,10 +14,6 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 | **What you'll need**          | Google Colab |
 | **Duration**                  | 1 hr                   |                     
              
-            
-## Video
-
-[![workshop walk-through](./images/promo.png)](https://youtu.be/DVlE8kS5lcU "workshop walk-through")
 
 ## Pre-Learning
 
