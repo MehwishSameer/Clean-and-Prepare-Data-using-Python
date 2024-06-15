@@ -22,7 +22,7 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 ## Prerequisites
 
 - [Python](https://www.python.org/downloads/)
-- Google Colab
+- VS Code
 
 ## What students will learn
 
